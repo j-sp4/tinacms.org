@@ -68,7 +68,7 @@
     "react-syntax-highlighter": "^12.2.1",
     "react-textarea-autosize": "^7.1.2",
     "react-tinacms-editor": "^0.7.2",
-    "react-tinacms-github": "^0.4.1",
+    "react-tinacms-github": "^0.26.0",
     "react-tinacms-inline": "^0.6.0",
     "remark": "^11.0.2",
     "remark-parse": "^8.0.0",
