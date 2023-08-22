@@ -7065,10 +7065,10 @@ next-tinacms-github@^0.1.1:
     gray-matter "4.0.2"
     qs "6.9.3"
 
-next-tinacms-json@^0.3.17:
-  version "0.3.17"
-  resolved "https://registry.yarnpkg.com/next-tinacms-json/-/next-tinacms-json-0.3.17.tgz#cfe12f9fe39ae4bbc4b6ebd8549553425375f52f"
-  integrity sha512-pumspGnIgG+jWYHXM2LqmWPd7CRmn++NIQL+KwQJ7NItj0/ziws1dod+pQoWArCISwEo97BpW6KlKHdR/r6xEA==
+next-tinacms-json@^0.51.0:
+  version "0.51.0"
+  resolved "https://registry.yarnpkg.com/next-tinacms-json/-/next-tinacms-json-0.51.0.tgz#0fa54f40c0604ad2f72244464dcaaecb979b4ae8"
+  integrity sha512-psgJg3StBx/3wQvE0oq9+Fo6cCqfZzuN7MJabJ+eUZemq2fylmKNygoqySm4+kfnGZF5yKDIlv2lUFW/Trdo2g==
 
 next-tinacms-markdown@^0.2.17:
   version "0.2.17"
